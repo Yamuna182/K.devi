@@ -1,0 +1,9 @@
+a=into(input('enter a value'))
+if a>=0;
+ Print('posirive')
+else:
+ Print('negative')
+Output:
+enter a value
+22
+Positive
